@@ -1,0 +1,22 @@
+<Clubs>
+	<Club id="1" nom="Club A" couleur="jaune" logo="a"/>
+	<Club id="2" nom="Club B" couleur="vert" logo="b"/>
+	<Club id="3" nom="Club C" couleur="rouge" logo="c"/>
+	<Club id="4" nom="Club D" couleur="bleu" logo="d"/>
+	<Club id="5" nom="Allemagne" couleur="rouge" logo="allemagne"/>
+	<Club id="6" nom="Angleterre" couleur="blanc" logo="angleterre"/>
+	<Club id="7" nom="Australie" couleur="bleu" logo="australie"/>
+	<Club id="8" nom="Bulgarie" couleur="vert" logo="bulgarie"/>
+	<Club id="9" nom="Ecosse" couleur="bleu" logo="ecosse"/>
+	<Club id="10" nom="Espagne" couleur="jaune" logo="espagne"/>
+	<Club id="11" nom="France" couleur="bleu" logo="france"/>
+	<Club id="12" nom="Irlande" couleur="vert" logo="irlande"/>
+	<Club id="13" nom="Japon" couleur="blanc" logo="japon"/>
+	<Club id="14" nom="Luxembourg" couleur="bleu" logo="luxembourg"/>
+	<Club id="15" nom="Scandinavie" couleur="blanc" logo="nordic"/>
+	<Club id="16" nom="Ouganda" couleur="jaune" logo="ouganda"/>
+	<Club id="17" nom="Pays de Galles" couleur="vert" logo="paysdegalles"/>
+	<Club id="18" nom="Pérou" couleur="rouge" logo="perou"/>
+	<Club id="19" nom="Transylvanie" couleur="jaune" logo="transylvanie"/>
+	<Club id="20" nom="Etats-Unis" couleur="bleu" logo="usa"/>
+</Clubs>

@@ -1,0 +1,164 @@
+<Joueurs>
+	<Joueur prenom="Caleb" nom="Perry" sexe="M" poste="P" vitesse="35" precision="37" club="4"/>
+	<Joueur prenom="Filip" nom="Griffiths" sexe="M" poste="P" vitesse="36" precision="33" club="4"/>
+	<Joueur prenom="Remy" nom="Dawson" sexe="M" poste="P" vitesse="35" precision="35" club="4"/>
+	<Joueur prenom="Evan" nom="Hayes" sexe="M" poste="B" vitesse="33" precision="39" club="4"/>
+	<Joueur prenom="Nathan" nom="Russell" sexe="M" poste="B" vitesse="31" precision="36" club="4"/>
+	<Joueur prenom="David" nom="Graham" sexe="M" poste="G" vitesse="28" precision="37" club="4"/>
+	<Joueur prenom="Aydin" nom="Chambers" sexe="F" poste="A" vitesse="36" precision="33" club="4"/>
+	<Joueur prenom="Magnus" nom="Powell" sexe="F" poste="P" vitesse="36" precision="37" club="1"/>
+	<Joueur prenom="Arthur" nom="Foster" sexe="F" poste="P" vitesse="36" precision="31" club="1"/>
+	<Joueur prenom="Andre" nom="Bell" sexe="F" poste="P" vitesse="36" precision="33" club="1"/>
+	<Joueur prenom="Kit" nom="Collins" sexe="M" poste="B" vitesse="32" precision="37" club="1"/>
+	<Joueur prenom="Sami" nom="Williamson" sexe="M" poste="B" vitesse="33" precision="37" club="1"/>
+	<Joueur prenom="Ewan" nom="Davidson" sexe="M" poste="G" vitesse="30" precision="39" club="1"/>
+	<Joueur prenom="Cassius" nom="Henderson" sexe="M" poste="A" vitesse="40" precision="34" club="1"/>
+	
+	<Joueur prenom="Christopher" nom="Fletcher" sexe="M" poste="P" vitesse="34" precision="34" club="3"/>
+	<Joueur prenom="Evan" nom="Johnson" sexe="F" poste="P" vitesse="37" precision="33" club="3"/>
+	<Joueur prenom="Jaiden" nom="Morgan" sexe="F" poste="P" vitesse="34" precision="35" club="3"/>
+	<Joueur prenom="Richard" nom="Rees" sexe="F" poste="B" vitesse="35" precision="35" club="3"/>
+	<Joueur prenom="Vincent" nom="Spencer" sexe="M" poste="B" vitesse="35" precision="34" club="3"/>
+	<Joueur prenom="Finnley" nom="Baxter" sexe="M" poste="G" vitesse="31" precision="36" club="3"/>
+	<Joueur prenom="Val" nom="Bell" sexe="M" poste="A" vitesse="39" precision="36" club="3"/>
+	
+	<Joueur prenom="Jody" nom="Andrews" sexe="M" poste="P" vitesse="34" precision="37" club="2"/>
+	<Joueur prenom="Harley" nom="Morris" sexe="M" poste="P" vitesse="35" precision="36" club="2"/>
+	<Joueur prenom="Sammy" nom="Wright" sexe="M" poste="P" vitesse="37" precision="36" club="2"/>
+	<Joueur prenom="Val" nom="West" sexe="M" poste="B" vitesse="33" precision="39" club="2"/>
+	<Joueur prenom="Harley" nom="Fletcher" sexe="M" poste="B" vitesse="37" precision="36" club="2"/>
+	<Joueur prenom="Maddox" nom="Miller" sexe="M" poste="G" vitesse="32" precision="38" club="2"/>
+	<Joueur prenom="Vic" nom="Dixon" sexe="M" poste="A" vitesse="37" precision="38" club="2"/>
+
+	<Joueur prenom="Leslie" nom="Powell" sexe="M" poste="P" vitesse="30" precision="34" club="20"/>
+	<Joueur prenom="Brice" nom="Phillips" sexe="F" poste="P" vitesse="34" precision="32" club="20"/>
+	<Joueur prenom="Val" nom="Clark" sexe="M" poste="P" vitesse="29" precision="33" club="20"/>
+	<Joueur prenom="Vic" nom="Walker" sexe="M" poste="B" vitesse="33" precision="34" club="20"/>
+	<Joueur prenom="Aaren" nom="Watson" sexe="M" poste="B" vitesse="33" precision="35" club="20"/>
+	<Joueur prenom="Brynn" nom="Hayes" sexe="M" poste="G" vitesse="35" precision="34" club="20"/>
+	<Joueur prenom="Kerry" nom="Fisher" sexe="F" poste="A" vitesse="38" precision="34" club="20"/>
+
+	<Joueur prenom="Tyler" nom="Spencer" sexe="M" poste="P" vitesse="32" precision="35" club="7"/>
+	<Joueur prenom="Casey" nom="Phillips" sexe="F" poste="P" vitesse="30" precision="29" club="7"/>
+	<Joueur prenom="Jody" nom="Bailey" sexe="M" poste="P" vitesse="31" precision="32" club="7"/>
+	<Joueur prenom="Rory" nom="Jackson" sexe="F" poste="B" vitesse="33" precision="36" club="7"/>
+	<Joueur prenom="Leigh" nom="Morgan" sexe="F" poste="B" vitesse="28" precision="29" club="7"/>
+	<Joueur prenom="Jaden" nom="Marshall" sexe="M" poste="G" vitesse="31" precision="34" club="7"/>
+	<Joueur prenom="Phoenix" nom="Hill" sexe="F" poste="A" vitesse="34" precision="28" club="7"/>
+
+	<Joueur prenom="Mell" nom="Hayes" sexe="M" poste="P" vitesse="41" precision="45" club="8"/>
+	<Joueur prenom="Phoenix" nom="Hill" sexe="F" poste="P" vitesse="46" precision="48" club="8"/>
+	<Joueur prenom="Mell" nom="Hayes" sexe="M" poste="P" vitesse="44" precision="43" club="8"/>
+	<Joueur prenom="Haiden" nom="Richardson" sexe="M" poste="B" vitesse="45" precision="43" club="8"/>
+	<Joueur prenom="Cameron" nom="Henderson" sexe="M" poste="B" vitesse="43" precision="41" club="8"/>
+	<Joueur prenom="Leslie" nom="Hart" sexe="M" poste="G" vitesse="45" precision="44" club="8"/>
+	<Joueur prenom="Skyler" nom="George" sexe="M" poste="A" vitesse="48" precision="47" club="8"/>
+
+	<Joueur prenom="Logan" nom="Berry" sexe="F" poste="P" vitesse="39" precision="40" club="6"/>
+	<Joueur prenom="Erin" nom="Davis" sexe="M" poste="P" vitesse="42" precision="37" club="6"/>
+	<Joueur prenom="Cameron" nom="Foster" sexe="M" poste="P" vitesse="36" precision="38" club="6"/>
+	<Joueur prenom="Naeem" nom="Ahmed" sexe="M" poste="B" vitesse="40" precision="38" club="6"/>
+	<Joueur prenom="Phlip" nom="Ali" sexe="F" poste="B" vitesse="36" precision="37" club="6"/>
+	<Joueur prenom="Salma" nom="Ali" sexe="M" poste="G" vitesse="33" precision="41" club="6"/>
+	<Joueur prenom="Eula" nom="Zimmerman" sexe="M" poste="A" vitesse="41" precision="37" club="6"/>
+
+	<Joueur prenom="Dustin" nom="Klein" sexe="F" poste="P" vitesse="38" precision="36" club="11"/>
+	<Joueur prenom="Patrick" nom="Wallace" sexe="F" poste="P" vitesse="34" precision="36" club="11"/>
+	<Joueur prenom="Rosemarie" nom="Cunningham" sexe="F" poste="P" vitesse="38" precision="38" club="11"/>
+	<Joueur prenom="Lewis" nom="Drake" sexe="M" poste="B" vitesse="40" precision="39" club="11"/>
+	<Joueur prenom="Pamelo" nom="Soto" sexe="F" poste="B" vitesse="40" precision="41" club="11"/>
+	<Joueur prenom="Alonzo" nom="Hicks" sexe="M" poste="G" vitesse="42" precision="40" club="11"/>
+	<Joueur prenom="Chester" nom="Bryan" sexe="F" poste="A" vitesse="39" precision="33" club="11"/>
+
+	<Joueur prenom="Floyd" nom="Page" sexe="M" poste="P" vitesse="33" precision="32" club="5"/>
+	<Joueur prenom="Stacey" nom="Owens" sexe="F" poste="P" vitesse="31" precision="30" club="5"/>
+	<Joueur prenom="Ismael" nom="Lawson" sexe="M" poste="P" vitesse="29" precision="31" club="5"/>
+	<Joueur prenom="Preston" nom="Taylor" sexe="F" poste="B" vitesse="32" precision="35" club="5"/>
+	<Joueur prenom="Jacob" nom="Copeland" sexe="F" poste="B" vitesse="31" precision="34" club="5"/>
+	<Joueur prenom="Ken" nom="Matthews" sexe="M" poste="G" vitesse="32" precision="34" club="5"/>
+	<Joueur prenom="Genevieve" nom="Huff" sexe="M" poste="A" vitesse="35" precision="33" club="5"/>
+
+	<Joueur prenom="Melody" nom="Jennings" sexe="F" poste="P" vitesse="43" precision="43" club="12"/>
+	<Joueur prenom="" nom="Phillips" sexe="M" poste="P" vitesse="45" precision="43" club="12"/>
+	<Joueur prenom="" nom="Higgins" sexe="F" poste="P" vitesse="42" precision="46" club="12"/>
+	<Joueur prenom="" nom="Obrien" sexe="M" poste="B" vitesse="47" precision="42" club="12"/>
+	<Joueur prenom="" nom="Medina" sexe="M" poste="B" vitesse="43" precision="45" club="12"/>
+	<Joueur prenom="Kate" nom="Kelley" sexe="M" poste="G" vitesse="44" precision="41" club="12"/>
+	<Joueur prenom="Vicky" nom="Salazar" sexe="M" poste="A" vitesse="46" precision="45" club="12"/>
+
+	<Joueur prenom="Regina" nom="Moran" sexe="M" poste="P" vitesse="35" precision="32" club="13"/>
+	<Joueur prenom="Edna" nom="Farmer" sexe="M" poste="P" vitesse="34" precision="33" club="13"/>
+	<Joueur prenom="Ramiro" nom="Holloway" sexe="M" poste="P" vitesse="36" precision="35" club="13"/>
+	<Joueur prenom="Andre" nom="Miles" sexe="F" poste="B" vitesse="37" precision="34" club="13"/>
+	<Joueur prenom="Cilfford" nom="Gregory" sexe="F" poste="B" vitesse="33" precision="40" club="13"/>
+	<Joueur prenom="Dan" nom="Boone" sexe="M" poste="G" vitesse="31" precision="34" club="13"/>
+	<Joueur prenom="Kari" nom="Moody" sexe="F" poste="A" vitesse="35" precision="34" club="13"/>
+
+	<Joueur prenom="Jason" nom="Logan" sexe="M" poste="P" vitesse="35" precision="34" club="15"/>
+	<Joueur prenom="Brad" nom="Saunders" sexe="F" poste="P" vitesse="34" precision="34" club="15"/>
+	<Joueur prenom="Dorothy" nom="Lane" sexe="M" poste="P" vitesse="32" precision="35" club="15"/>
+	<Joueur prenom="Gladys" nom="Schmidt" sexe="M" poste="B" vitesse="31" precision="34" club="15"/>
+	<Joueur prenom="Viola" nom="Gregory" sexe="F" poste="B" vitesse="35" precision="30" club="15"/>
+	<Joueur prenom="Sean" nom="Ray" sexe="M" poste="G" vitesse="29" precision="34" club="15"/>
+	<Joueur prenom="Robin" nom="Burns" sexe="F" poste="A" vitesse="34" precision="31" club="15"/>
+
+	<Joueur prenom="Hattie" nom="Henderson" sexe="F" poste="P" vitesse="27" precision="28" club="10"/>
+	<Joueur prenom="Clara" nom="Warren" sexe="F" poste="P" vitesse="31" precision="27" club="10"/>
+	<Joueur prenom="Edwin" nom="Lyons" sexe="F" poste="P" vitesse="25" precision="29" club="10"/>
+	<Joueur prenom="Afonso" nom="Frank" sexe="M" poste="B" vitesse="30" precision="23" club="10"/>
+	<Joueur prenom="Emily" nom="Mccormick" sexe="M" poste="B" vitesse="24" precision="26" club="10"/>
+	<Joueur prenom="Charlotte" nom="Barnett" sexe="F" poste="G" vitesse="25" precision="30" club="10"/>
+	<Joueur prenom="Karen" nom="Stevens" sexe="M" poste="A" vitesse="28" precision="26" club="10"/>
+
+	<Joueur prenom="Mercedes" nom="Strickland" sexe="M" poste="P" vitesse="34" precision="37" club="9"/>
+	<Joueur prenom="Shane" nom="Blake" sexe="M" poste="P" vitesse="35" precision="36" club="9"/>
+	<Joueur prenom="Neslon" nom="Castillo" sexe="M" poste="P" vitesse="37" precision="36" club="9"/>
+	<Joueur prenom="Alan" nom="Walsh" sexe="M" poste="B" vitesse="33" precision="39" club="9"/>
+	<Joueur prenom="Gilberto" nom="Alexander" sexe="M" poste="B" vitesse="37" precision="36" club="9"/>
+	<Joueur prenom="Guadalupe" nom="Soto" sexe="M" poste="G" vitesse="32" precision="38" club="9"/>
+	<Joueur prenom="Sean" nom="Blake" sexe="M" poste="A" vitesse="37" precision="38" club="9"/>
+
+
+
+	<Joueur prenom="Verna" nom="Obrien" sexe="M" poste="P" vitesse="34" precision="37" club="14"/>
+	<Joueur prenom="Mike" nom="Underwood" sexe="M" poste="P" vitesse="35" precision="36" club="14"/>
+	<Joueur prenom="Mercedes" nom="Rogers" sexe="M" poste="P" vitesse="37" precision="36" club="14"/>
+	<Joueur prenom="Clara" nom="Summers" sexe="M" poste="B" vitesse="33" precision="39" club="14"/>
+	<Joueur prenom="Lela" nom="Warren" sexe="M" poste="B" vitesse="37" precision="36" club="14"/>
+	<Joueur prenom="Essie" nom="Christensen" sexe="M" poste="G" vitesse="32" precision="38" club="14"/>
+	<Joueur prenom="Belinda" nom="Bradley" sexe="M" poste="A" vitesse="37" precision="38" club="14"/>
+
+	<Joueur prenom="Antoinette" nom="Rose" sexe="M" poste="P" vitesse="34" precision="37" club="16"/>
+	<Joueur prenom="Rose" nom="Mccoy" sexe="M" poste="P" vitesse="35" precision="36" club="16"/>
+	<Joueur prenom="Terrence" nom="Burns" sexe="M" poste="P" vitesse="37" precision="36" club="16"/>
+	<Joueur prenom="Rachel" nom="Graves" sexe="M" poste="B" vitesse="33" precision="39" club="16"/>
+	<Joueur prenom="Wilbur" nom="Byrd" sexe="M" poste="B" vitesse="37" precision="36" club="16"/>
+	<Joueur prenom="Marcia" nom="Christensen" sexe="M" poste="G" vitesse="32" precision="38" club="16"/>
+	<Joueur prenom="Ignacio" nom="Myers" sexe="M" poste="A" vitesse="37" precision="38" club="16"/>
+
+	<Joueur prenom="Ana" nom="Russell" sexe="M" poste="P" vitesse="34" precision="37" club="17"/>
+	<Joueur prenom="Cesar" nom="Carr" sexe="M" poste="P" vitesse="35" precision="36" club="17"/>
+	<Joueur prenom="Rufus" nom="Boyd" sexe="M" poste="P" vitesse="37" precision="36" club="17"/>
+	<Joueur prenom="Patsy" nom="Hill" sexe="M" poste="B" vitesse="33" precision="39" club="17"/>
+	<Joueur prenom="Wilma" nom="Wolfe" sexe="M" poste="B" vitesse="37" precision="36" club="17"/>
+	<Joueur prenom="Johnny" nom="Schwartz" sexe="M" poste="G" vitesse="32" precision="38" club="17"/>
+	<Joueur prenom="Ralph" nom="Rose" sexe="M" poste="A" vitesse="37" precision="38" club="17"/>
+
+	<Joueur prenom="Terry" nom="Mendez" sexe="M" poste="P" vitesse="34" precision="37" club="18"/>
+	<Joueur prenom="Sylvia" nom="White" sexe="M" poste="P" vitesse="35" precision="36" club="18"/>
+	<Joueur prenom="Eleanor" nom="Sparks" sexe="M" poste="P" vitesse="37" precision="36" club="18"/>
+	<Joueur prenom="Randy" nom="Hamilton" sexe="M" poste="B" vitesse="33" precision="39" club="18"/>
+	<Joueur prenom="Mark" nom="Medina" sexe="M" poste="B" vitesse="37" precision="36" club="18"/>
+	<Joueur prenom="Nicole" nom="Carter" sexe="M" poste="G" vitesse="32" precision="38" club="18"/>
+	<Joueur prenom="Roxanne" nom="Soto" sexe="M" poste="A" vitesse="37" precision="38" club="18"/>
+
+	<Joueur prenom="Penny" nom="Moore" sexe="M" poste="P" vitesse="34" precision="37" club="19"/>
+	<Joueur prenom="Bruce" nom="Singleton" sexe="M" poste="P" vitesse="35" precision="36" club="19"/>
+	<Joueur prenom="Stewart" nom="Mullins" sexe="M" poste="P" vitesse="37" precision="36" club="19"/>
+	<Joueur prenom="Velma" nom="Duncan" sexe="M" poste="B" vitesse="33" precision="39" club="19"/>
+	<Joueur prenom="Becky" nom="Rodriguez" sexe="M" poste="B" vitesse="37" precision="36" club="19"/>
+	<Joueur prenom="Miriam" nom="Gomez" sexe="M" poste="G" vitesse="32" precision="38" club="19"/>
+	<Joueur prenom="Shelley" nom="Ryan" sexe="M" poste="A" vitesse="37" precision="38" club="19"/>
+
+	
+</Joueurs>

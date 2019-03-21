@@ -1,0 +1,80 @@
+<Competitions>
+	<Competition id="1" nom="Test cup" logo="cup" miseAJour="1/8">
+		<Tour nom="Tournoi" type="CH" allerretour="N" heure="16:00" d1="7/11" d2="5/12" d3="6/2" qualifies="0">
+			<Participant id="1"/>
+			<Participant id="2"/>
+			<Participant id="3"/>
+			<Participant id="4"/>
+			<Decalage jour="7" heure="16:00" nbMatchs="1"/>
+		</Tour>
+	</Competition>
+	<Competition id="2" nom="Quidditch World Cup" logo="cup" miseAJour="1/7">
+		<Tour nom="1/8 de Finale" type="E" allerretour="N" heure="11:00" d1="18/8">
+			<Participant id="5"/>
+			<Participant id="6"/>
+			<Participant id="7"/>
+			<Participant id="8"/>
+			<Participant id="9"/>
+			<Participant id="10"/>
+			<Participant id="11"/>
+			<Participant id="12"/>
+			<Participant id="13"/>
+			<Participant id="14"/>
+			<Participant id="15"/>
+			<Participant id="16"/>
+			<Participant id="17"/>
+			<Participant id="18"/>
+			<Participant id="19"/>
+			<Participant id="20"/>
+			<Decalage jour="-1" heure="19:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="0" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="0" heure="17:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="17:00" nbMatchs="1"/>
+			<Decalage jour="0" heure="14:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="14:00" nbMatchs="1"/>
+		</Tour>
+		<Tour nom="Quarts de finale" type="E" allerretour="N" heure="16:00" d1="22/8">
+			<Decalage jour="0" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="16:00" nbMatchs="1"/>
+		</Tour>
+		<Tour nom="Demis-finale" type="E" allerretour="N" heure="16:00" d1="24/8">
+			<Decalage jour="1" heure="21:00" nbMatchs="1"/>
+		</Tour>
+		<Tour nom="Finale" type="E" allerretour="N" heure="21:00" d1="26/8">
+		</Tour>
+	</Competition>
+	<Competition id="3" nom="Quidditch World Cup - Avec poules" logo="cup" miseAJour="1/7">
+		<Tour nom="Poules" type="P" allerretour="N" heure="16:00" d1="18/8" d2="20/8" d3="22/8" nombrePoules="4" qualifies="2">
+			<Participant id="5"/>
+			<Participant id="6"/>
+			<Participant id="7"/>
+			<Participant id="8"/>
+			<Participant id="9"/>
+			<Participant id="10"/>
+			<Participant id="11"/>
+			<Participant id="12"/>
+			<Participant id="13"/>
+			<Participant id="14"/>
+			<Participant id="15"/>
+			<Participant id="16"/>
+			<Participant id="17"/>
+			<Participant id="18"/>
+			<Participant id="19"/>
+			<Participant id="20"/>
+			<Decalage jour="1" heure="16:00" nbMatchs="1"/>
+		</Tour>
+		<Tour nom="Quarts de Finale" type="E" allerretour="N" heure="16:00" d1="24/8">
+			<Decalage jour="0" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="21:00" nbMatchs="1"/>
+			<Decalage jour="1" heure="16:00" nbMatchs="1"/>
+
+		</Tour>
+		<Tour nom="Demis-finale" type="E" allerretour="N" heure="16:00" d1="26/8">
+			<Decalage jour="1" heure="21:00" nbMatchs="1"/>
+		</Tour>
+		<Tour nom="Finale" type="E" allerretour="N" heure="21:00" d1="27/8">
+		</Tour>
+	</Competition>
+</Competitions>
