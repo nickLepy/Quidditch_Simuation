@@ -8,7 +8,6 @@ using UnityEngine.SceneManagement;
 
 public class GUI_ChoixEquipes : IGUI
 {
-
     private int _id1;
     private int _id2;
 
@@ -19,11 +18,7 @@ public class GUI_ChoixEquipes : IGUI
         parseur.Charger();
         _id1 = 0;
         _id2 = 1;
-        
-
     }
-
-    
 
     public IGUI GUI()
     {

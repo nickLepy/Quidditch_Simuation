@@ -8,7 +8,7 @@ public class Match
 {
 
     private static Match _match;
-    public static Match LeMatch { get { return _match; } set { _match = value; } } //Match en live en 3D
+    public static Match LeMatch { get { return _match; } set { _match = value; } } //Match en live dans la vue 3D
 
     private Club _equipe1;
     private Club _equipe2;
