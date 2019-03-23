@@ -7,7 +7,6 @@ using UnityEngine;
 
 public class Styles
 {
-
     private static Font _fontHP = Resources.Load("Font/HarryPotter7", typeof(Font)) as Font;
     private static Font _fontNP = Resources.Load("Font/PathwayGothicOne-Regular", typeof(Font)) as Font;
     private static Texture2D[] _textures;
